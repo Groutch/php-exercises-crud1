@@ -1,6 +1,6 @@
-CREATE DATABASE colyseum CHARACTER SET 'utf8';
+-- CREATE DATABASE colyseum CHARACTER SET 'utf8';
 
-USE colyseum;
+-- USE colyseum;
 
 CREATE TABLE `clients` (
   `id` SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
